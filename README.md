@@ -34,3 +34,5 @@ I have a foundational understanding of programming, with experience in Python an
 <a href="http://www.github.com/kavinesh110"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kavinesh110&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/kavinesh110" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinesh110&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Bachelor of Computer Science (Data Engineering) with Honours
