@@ -38,7 +38,7 @@ I have a foundational understanding of programming, with experience in Python an
 <h2>👨‍💻Bachelor of Computer Science (Data Engineering) with Honours(Sem1)</h2>
 
 - <b>DISCRETE STRUCTURE</b>
-  - [Praciting DS & Algos in Python](https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-/blob/5afd32dd5161def74ebc79836700e98dec19d240/README.md)
+  - (https://github.com/kavinesh110/DISCRETE-STRUCTURE/blob/main/README.md)
 - <b>PROGRAMMING TECHNIQUE I</b>
   - (https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-)
 - <b>TECHNOLOGY AND INFORMATION SYSTEM</b>
