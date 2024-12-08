@@ -40,7 +40,7 @@ I have a foundational understanding of programming, with experience in Python an
 - <b>DISCRETE STRUCTURE</b>
   - [Praciting DS & Algos in Python](https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-/blob/5afd32dd5161def74ebc79836700e98dec19d240/README.md)
 - <b>PROGRAMMING TECHNIQUE I</b>
-  - ([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-)
+  - (https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-)
 - <b>TECHNOLOGY AND INFORMATION SYSTEM</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
