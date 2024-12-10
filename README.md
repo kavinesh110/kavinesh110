@@ -42,11 +42,6 @@ I have a foundational understanding of programming, with experience in Python an
 - <b>PROGRAMMING TECHNIQUE I</b>
   - (https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-)
 - <b>TECHNOLOGY AND INFORMATION SYSTEM</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  
 - <b>DIGITAL LOGIC</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
