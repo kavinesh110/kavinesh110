@@ -10,7 +10,7 @@ I have a foundational understanding of programming, with experience in Python an
 * ✉️  You can contact me at [kavineshreddy2@gmail.com](mailto:kavineshreddy2@gmail.com)
 * 🧠  I'm learning c++
 * 🤝  I'm open to collaborating on projects
-* website:[Kavineshreddy](kavinesh110.github.io/)
+* website:[Kavineshreddy](https://kavinesh110.github.io/)
 
 ### Skills
 
