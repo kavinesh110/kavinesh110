@@ -43,6 +43,7 @@ I have a foundational understanding of programming, with experience in Python an
 - <b>PROGRAMMING TECHNIQUE I</b>
   - (https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-)
 - <b>TECHNOLOGY AND INFORMATION SYSTEM</b>
-  
+ - (https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-)  
 - <b>DIGITAL LOGIC</b>
+ - (https://github.com/kavinesh110/SECJ1013-PROGRAMMING-TECHNIQUE-I-UTM-)
   
